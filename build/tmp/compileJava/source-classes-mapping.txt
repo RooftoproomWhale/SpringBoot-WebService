@@ -1,29 +1,45 @@
-com/geonung/spring/boot/domain/BaseTimeEntity.java
- com.geonung.spring.boot.domain.BaseTimeEntity
-com/geonung/spring/boot/web/dto/PostsResponseDto.java
- com.geonung.spring.boot.web.dto.PostsResponseDto
+com/geonung/spring/boot/config/auth/CustomOAuth2UserService.java
+ com.geonung.spring.boot.config.auth.CustomOAuth2UserService
+com/geonung/spring/boot/domain/posts/PostsRepository.java
+ com.geonung.spring.boot.domain.posts.PostsRepository
+com/geonung/spring/boot/web/HelloController.java
+ com.geonung.spring.boot.web.HelloController
+com/geonung/spring/boot/domain/user/Role.java
+ com.geonung.spring.boot.domain.user.Role
+com/geonung/spring/boot/web/PostsApiController.java
+ com.geonung.spring.boot.web.PostsApiController
+com/geonung/spring/boot/config/auth/dto/SessionUser.java
+ com.geonung.spring.boot.config.auth.dto.SessionUser
 com/geonung/spring/boot/web/dto/PostsSaveRequestDto.java
  com.geonung.spring.boot.web.dto.PostsSaveRequestDto
  com.geonung.spring.boot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/geonung/spring/boot/web/HelloController.java
- com.geonung.spring.boot.web.HelloController
-com/geonung/spring/boot/web/dto/HelloResponseDto.java
- com.geonung.spring.boot.web.dto.HelloResponseDto
+com/geonung/spring/boot/web/dto/PostsListResponseDto.java
+ com.geonung.spring.boot.web.dto.PostsListResponseDto
 com/geonung/spring/boot/web/dto/PostsUpdateRequestDto.java
  com.geonung.spring.boot.web.dto.PostsUpdateRequestDto
  com.geonung.spring.boot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/geonung/spring/boot/service/posts/PostsService.java
+ com.geonung.spring.boot.service.posts.PostsService
+com/geonung/spring/boot/domain/BaseTimeEntity.java
+ com.geonung.spring.boot.domain.BaseTimeEntity
+com/geonung/spring/boot/domain/user/User.java
+ com.geonung.spring.boot.domain.user.User
+ com.geonung.spring.boot.domain.user.User$UserBuilder
+com/geonung/spring/boot/web/dto/PostsResponseDto.java
+ com.geonung.spring.boot.web.dto.PostsResponseDto
+com/geonung/spring/boot/domain/user/UserRepository.java
+ com.geonung.spring.boot.domain.user.UserRepository
+com/geonung/spring/boot/web/dto/HelloResponseDto.java
+ com.geonung.spring.boot.web.dto.HelloResponseDto
 com/geonung/spring/boot/domain/posts/Posts.java
  com.geonung.spring.boot.domain.posts.Posts
  com.geonung.spring.boot.domain.posts.Posts$PostsBuilder
+com/geonung/spring/boot/config/auth/dto/OAuthAttributes.java
+ com.geonung.spring.boot.config.auth.dto.OAuthAttributes
+ com.geonung.spring.boot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/geonung/spring/boot/Application.java
  com.geonung.spring.boot.Application
-com/geonung/spring/boot/domain/posts/PostsRepository.java
- com.geonung.spring.boot.domain.posts.PostsRepository
-com/geonung/spring/boot/web/dto/PostsListResponseDto.java
- com.geonung.spring.boot.web.dto.PostsListResponseDto
+com/geonung/spring/boot/config/auth/SecurityConfig.java
+ com.geonung.spring.boot.config.auth.SecurityConfig
 com/geonung/spring/boot/web/IndexController.java
  com.geonung.spring.boot.web.IndexController
-com/geonung/spring/boot/web/PostsApiController.java
- com.geonung.spring.boot.web.PostsApiController
-com/geonung/spring/boot/service/posts/PostsService.java
- com.geonung.spring.boot.service.posts.PostsService
