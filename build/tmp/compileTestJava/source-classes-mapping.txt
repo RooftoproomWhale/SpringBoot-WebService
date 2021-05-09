@@ -2,9 +2,9 @@ com/geonung/spring/boot/web/PostsApiControllerTest.java
  com.geonung.spring.boot.web.PostsApiControllerTest
 com/geonung/spring/boot/web/dto/HelloResponseDtoTest.java
  com.geonung.spring.boot.web.dto.HelloResponseDtoTest
-com/geonung/spring/boot/web/HelloControllerTest.java
- com.geonung.spring.boot.web.HelloControllerTest
-com/geonung/spring/boot/domain/posts/PostsRepositoryTest.java
- com.geonung.spring.boot.domain.posts.PostsRepositoryTest
 com/geonung/spring/boot/web/IndexControllerTest.java
  com.geonung.spring.boot.web.IndexControllerTest
+com/geonung/spring/boot/domain/posts/PostsRepositoryTest.java
+ com.geonung.spring.boot.domain.posts.PostsRepositoryTest
+com/geonung/spring/boot/web/HelloControllerTest.java
+ com.geonung.spring.boot.web.HelloControllerTest
